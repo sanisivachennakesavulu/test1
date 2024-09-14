@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+boby{
+    height: 100vh;
+    backgroung-color: rgb(251,252,252);
+
+}
+.container{
+    position: absolute;
+    left: 50;
+    top: 50;
+    transform: translate(-50%,-50%);
+}
